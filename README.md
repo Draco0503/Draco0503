@@ -1,9 +1,8 @@
 <h1 align="center">BIO</h1>
-<p align="center">
 💻 Programmer who keeps learning everyday 💻
 
 ![](https://komarev.com/ghpvc/?username=Draco0503&color=blueviolet&label=VIEWS&style=flat-square)
-</p>
+
 <h1 align="center">Skills</h1>
 
 <p align="center">
