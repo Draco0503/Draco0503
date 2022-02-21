@@ -1,4 +1,4 @@
-<h1 align="center">BIO</h1>
+# BIO
 💻 Programmer who keeps learning everyday 💻
 
 ![](https://komarev.com/ghpvc/?username=Draco0503&color=blueviolet&label=VIEWS&style=flat-square)
