@@ -14,5 +14,4 @@
   <img src="img/javascript.jpg" height="50px">
   <img src="img/mysql.png" height="50px">
   <img src="img/mongo.png" height="50px">
-  <img src="img/plsql.png" height="50px">
 <p>
