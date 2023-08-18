@@ -28,7 +28,7 @@
 <p align="center">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?logo=docker&logoColor=white&style=flat-square">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square">
-<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-4680f2?logo=docker&logoColor=white&style=flat-square">
+<img alt="Azure DevOps" src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-4680f2?logo=azure&logoColor=white&style=flat-square">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-BBBBBB.svg?logo=linux&logoColor=black&style=flat-square">
 </p>
 <h3 align="center">💾</h3>
